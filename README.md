@@ -35,4 +35,4 @@ Users should be able to:
 
 ## Author
 
-- [LinkedIn]()
+- [LinkedIn](https://www.linkedin.com/in/katlegomabaso/)
